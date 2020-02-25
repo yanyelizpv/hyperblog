@@ -3,5 +3,10 @@
 Yanina Anyeliz Perdomo tiene 29 años, cumplidos el pasado 27 de enero.
 Mañana nos enfocaremos en su vida laboral
 Master 1
+<<<<<<< HEAD
 Master 2
+=======
+
+Experimento 1
+>>>>>>> Exp 1
 Ahora aparece Yanina Platzi, una nueva colaboradora de este repositorio
