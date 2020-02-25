@@ -8,5 +8,9 @@ Master 2
 =======
 
 Experimento 1
+<<<<<<< HEAD
 >>>>>>> Exp 1
+=======
+Experimento 2
+>>>>>>> exp 2
 Ahora aparece Yanina Platzi, una nueva colaboradora de este repositorio
